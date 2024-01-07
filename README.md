@@ -1,6 +1,6 @@
 ### Olá, Bem vindo ao João Vitor Rosa
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-rosa-a50b6a285/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-rosa-a50b6a285/)
 
 ![JoaofRosa GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaofRosa&show_icons=true&theme=dracula)
 
